@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "67fa9268acea2f90",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c6ad750a85221fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c85c8f7cc23c0467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@templates/Zettelkasten/Literature/Literature_Paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5cf651ca043e1d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4382e5dea3b4dae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55f68c3b71e109e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "728f22b6c58750c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a4a3bc730ff6c82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbe42ee0495f7e41",
+    "type": "split",
+    "children": [
+      {
+        "id": "1968553208e3ab46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc9776715c43bf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "@templates/Zettelkasten/Literature/Literature_Paper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "812e7be7d46d610d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "@templates/Zettelkasten/Literature/Literature_Paper.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "100ac9a67a489390",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8e6248ab8062d90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "@templates/Zettelkasten/Literature/Literature_Paper.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c85c8f7cc23c0467",
+  "lastOpenFiles": [
+    "@templates/Zettelkasten/Literature/Literature_Article.md",
+    "@templates/Zettelkasten/Literature/Literature_Paper.md",
+    "@templates/Zettelkasten/Permanent/Permanent_Idea.md",
+    "@templates/Zettelkasten/Reference/{{reference_name}} - {{date}}.canvas",
+    "@templates/Zettelkasten/Reference",
+    "@templates/Zettelkasten/Permanent",
+    "@templates/Zettelkasten/Literature",
+    "@templates/Zettelkasten",
+    "@templates"
+  ]
+}
