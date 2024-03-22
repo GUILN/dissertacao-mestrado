@@ -1,0 +1,3 @@
+
+- [ ] Nomear os artigos:
+	- [ ] <ANO><SOBRENOME_PRIMEIRO_AUTOR><PRIMEIRO_SUBSTANTIVO_TITULO>

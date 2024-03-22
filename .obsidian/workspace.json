@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5a757f73c257f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reuniao-PS-22-03-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md",
+                "file": "Reuniao-PS-22-03-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md",
+                "file": "Reuniao-PS-22-03-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md"
+                "file": "Reuniao-PS-22-03-2024.md"
               }
             }
           }
@@ -148,21 +161,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e66a11715164652",
+  "active": "f5a757f73c257f38",
   "lastOpenFiles": [
-    "Projeto/Pesquisa/Journals/ACM Transactions on Information Systems.md",
     "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md",
+    "Reuniao-PS-22-03-2024.md",
+    "Projeto/Pesquisa/Literatura/Transformers4Rec.md",
+    "Estudar.md",
+    "Projeto/Pesquisa/Journals/ACM Conference Series On Recommendation Systems.md",
+    "@templates/Zettelkasten/Journal.md",
+    "Projeto/Pesquisa/Journals/ACM Transactions on Information Systems.md",
+    "@templates/Zettelkasten/Literature/Literature_Paper.md",
+    "@templates/Zettelkasten/Literature/Literature_Article.md",
     "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
     "Projeto/Pesquisa/Datasets/Diginetica.md",
     "Projeto/Pesquisa/Datasets/Yoochoose.md",
     "Images",
     "Images/Screenshot 2024-03-22 at 16.48.10.png",
-    "@templates/Zettelkasten/Journal.md",
     "@templates/Zettelkasten/Dataset.md",
-    "@templates/Zettelkasten/Literature/Literature_Paper.md",
-    "@templates/Zettelkasten/Literature/Literature_Article.md",
     "Projeto/Pesquisa/Journals",
-    "Estudar.md",
     "Projeto/Pesquisa/Datasets",
     "Projeto/Pesquisa/Permanente",
     "().md",

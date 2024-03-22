@@ -1,1 +1,2 @@
 - [ ] #WGAT 
+- [ ] Pesquisar impacto dos journals / conferences
