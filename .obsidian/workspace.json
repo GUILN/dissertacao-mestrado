@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@templates/Zettelkasten/Literature/Literature_Paper.md",
+                "file": "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@templates/Zettelkasten/Literature/Literature_Paper.md",
+                "file": "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@templates/Zettelkasten/Literature/Literature_Paper.md",
+                "file": "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@templates/Zettelkasten/Literature/Literature_Paper.md"
+                "file": "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md"
               }
             }
           }
@@ -150,8 +150,12 @@
   },
   "active": "c85c8f7cc23c0467",
   "lastOpenFiles": [
-    "@templates/Zettelkasten/Literature/Literature_Article.md",
     "@templates/Zettelkasten/Literature/Literature_Paper.md",
+    "@templates/Zettelkasten/Literature/Literature_Article.md",
+    "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
+    "Projeto/Pesquisa/Literatura",
+    "Projeto/Pesquisa",
+    "Projeto",
     "@templates/Zettelkasten/Permanent/Permanent_Idea.md",
     "@templates/Zettelkasten/Reference/{{reference_name}} - {{date}}.canvas",
     "@templates/Zettelkasten/Reference",
