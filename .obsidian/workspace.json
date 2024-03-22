@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c6ad750a85221fe",
+        "id": "636cafd27c393780",
         "type": "tabs",
         "children": [
           {
-            "id": "c85c8f7cc23c0467",
+            "id": "4e66a11715164652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
+                "file": "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
+                "file": "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
+                "file": "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md"
+                "file": "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md"
               }
             }
           }
@@ -148,11 +148,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c85c8f7cc23c0467",
+  "active": "4e66a11715164652",
   "lastOpenFiles": [
+    "Projeto/Pesquisa/Journals/ACM Transactions on Information Systems.md",
+    "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md",
+    "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
+    "Projeto/Pesquisa/Datasets/Diginetica.md",
+    "Projeto/Pesquisa/Datasets/Yoochoose.md",
+    "Images",
+    "Images/Screenshot 2024-03-22 at 16.48.10.png",
+    "@templates/Zettelkasten/Journal.md",
+    "@templates/Zettelkasten/Dataset.md",
     "@templates/Zettelkasten/Literature/Literature_Paper.md",
     "@templates/Zettelkasten/Literature/Literature_Article.md",
-    "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
+    "Projeto/Pesquisa/Journals",
+    "Estudar.md",
+    "Projeto/Pesquisa/Datasets",
+    "Projeto/Pesquisa/Permanente",
+    "().md",
     "Projeto/Pesquisa/Literatura",
     "Projeto/Pesquisa",
     "Projeto",
@@ -160,8 +173,6 @@
     "@templates/Zettelkasten/Reference/{{reference_name}} - {{date}}.canvas",
     "@templates/Zettelkasten/Reference",
     "@templates/Zettelkasten/Permanent",
-    "@templates/Zettelkasten/Literature",
-    "@templates/Zettelkasten",
-    "@templates"
+    "@templates/Zettelkasten/Literature"
   ]
 }

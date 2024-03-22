@@ -5,9 +5,9 @@
 
 ## Main Information
 
-| Model   | Metric            | Dataset                   | Citations | Date       | Results                                                                               |
-| ------- | ----------------- | ------------------------- | --------- | ---------- | ------------------------------------------------------------------------------------- |
-| SGNN-HN | #p_at_k #MRR_at_k | #Yoochoose<br>#Diginetica | 118       | 19/10/2020 | Diginetica: P@20 =  4.27 ,MRR@20 = 3.9, <br>Yoochoose:<br>P@20 =  1.11 ,MRR@20 = 2.84 |
+| Model   | Metric            | Dataset                         | Citations | Date       | Results                                                                               |
+| ------- | ----------------- | ------------------------------- | --------- | ---------- | ------------------------------------------------------------------------------------- |
+| SGNN-HN | #p_at_k #MRR_at_k | [[Diginetica]]<br>[[Yoochoose]] | 118       | 19/10/2020 | Diginetica: P@20 =  4.27 ,MRR@20 = 3.9, <br>Yoochoose:<br>P@20 =  1.11 ,MRR@20 = 2.84 |
 
 
 ## Method
