@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md",
+                "file": "Reuniao-PS-22-03-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reuniao-PS-22-03-2024.md",
+                "file": "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reuniao-PS-22-03-2024.md",
+                "file": "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reuniao-PS-22-03-2024.md",
+                "file": "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reuniao-PS-22-03-2024.md"
+                "file": "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md"
               }
             }
           }
@@ -163,11 +163,11 @@
   },
   "active": "f5a757f73c257f38",
   "lastOpenFiles": [
-    "Projeto/Pesquisa/Literatura/Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.md",
     "Reuniao-PS-22-03-2024.md",
+    "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
+    "Projeto/Pesquisa/Journals/ACM Conference Series On Recommendation Systems.md",
     "Projeto/Pesquisa/Literatura/Transformers4Rec.md",
     "Estudar.md",
-    "Projeto/Pesquisa/Journals/ACM Conference Series On Recommendation Systems.md",
     "@templates/Zettelkasten/Journal.md",
     "Projeto/Pesquisa/Journals/ACM Transactions on Information Systems.md",
     "@templates/Zettelkasten/Literature/Literature_Paper.md",
