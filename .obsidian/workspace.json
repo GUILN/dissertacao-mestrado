@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reuniao-PS-22-03-2024.md",
+                "file": "ATA-Reuniao-PS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
+                "file": "Estudar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
+                "file": "ATA-Reuniao-PS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
+                "file": "ATA-Reuniao-PS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md"
+                "file": "ATA-Reuniao-PS.md"
               }
             }
           }
@@ -161,20 +160,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5a757f73c257f38",
+  "active": "4e66a11715164652",
   "lastOpenFiles": [
-    "Reuniao-PS-22-03-2024.md",
-    "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
-    "Projeto/Pesquisa/Journals/ACM Conference Series On Recommendation Systems.md",
-    "Projeto/Pesquisa/Literatura/Transformers4Rec.md",
     "Estudar.md",
-    "@templates/Zettelkasten/Journal.md",
+    "ATA-Reuniao-PS.md",
     "Projeto/Pesquisa/Journals/ACM Transactions on Information Systems.md",
+    "Projeto/Pesquisa/Journals/ACM Conference Series On Recommendation Systems.md",
     "@templates/Zettelkasten/Literature/Literature_Paper.md",
     "@templates/Zettelkasten/Literature/Literature_Article.md",
+    "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
     "Projeto/Pesquisa/Literatura/Star Graph Neural Networks for Session-based Recommendation.md",
-    "Projeto/Pesquisa/Datasets/Diginetica.md",
     "Projeto/Pesquisa/Datasets/Yoochoose.md",
+    "Projeto/Pesquisa/Datasets/Diginetica.md",
+    "Projeto/Pesquisa/Literatura/Transformers4Rec.md",
+    "@templates/Zettelkasten/Journal.md",
     "Images",
     "Images/Screenshot 2024-03-22 at 16.48.10.png",
     "@templates/Zettelkasten/Dataset.md",
