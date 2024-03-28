@@ -1,4 +1,4 @@
-# Paper - 22-03-2024
+# 2021-gmoreira-bridging
 
 - [Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation](https://www.semanticscholar.org/paper/Transformers4Rec%3A-Bridging-the-Gap-between-NLP-and-Moreira-Rabhi/dca4d9abbc82e57dfa52f932e893d467a63e0682)
 - **Tags:** #GNN #transformers

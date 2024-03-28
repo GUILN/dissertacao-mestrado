@@ -1,4 +1,4 @@
-# Paper - 21-03-2024
+# 2020-zhiqiang-stargraph
 
 - [Star Graph Neural Networks for Session-based Recommendation](https://www.semanticscholar.org/paper/Star-Graph-Neural-Networks-for-Session-based-Pan-Cai/63f9bc0d97bdfc80b0227415d170941c211acf43)
 - **Tags:** #GNN #session_based_recommendation #outperforms
