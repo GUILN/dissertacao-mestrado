@@ -1,3 +1,4 @@
-- [ ] #WGAT 
-- [ ] Pesquisar impacto dos journals / conferences (https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/)
-- [ ] https://www.letpub.com/journal-selector
+- [x] #WGAT 
+- [x] Pesquisar impacto dos journals / conferences (https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/)
+- [ ] Attention
+	- [ ] STAMP
