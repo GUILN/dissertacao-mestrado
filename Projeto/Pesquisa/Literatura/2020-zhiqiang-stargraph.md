@@ -12,6 +12,9 @@
 
 ## Method
 
+**Description:**
+The method proposes SGNN architecture which basically introduces a high connected node among the other nodes of the session. The author calls this usage "highway networks". The main benefit of this method is that it prevents overfitting problems to happen. 
+
 - The proposed SGNN introduces a star node as the transition node between every two items in the session, allowing information propagation not only from adjacent items but also from items without direct connections.
 - The use of highway networks helps to solve the overfitting problem and allows for the stacking of more layers of star graph neural networks, leading to better item representation.
 - SGNN-HN is effective in hitting the target item in the recommendation list, especially in cases with relatively many candidate items.
