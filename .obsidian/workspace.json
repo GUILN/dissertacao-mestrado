@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
+                "file": "Projeto/Pesquisa/Literatura/2021-gmoreira-bridging.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudar.md",
+                "file": "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,15 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e66a11715164652",
+  "active": "f5a757f73c257f38",
   "lastOpenFiles": [
-    "@templates/Zettelkasten/Literature/Literature_Paper.md",
-    "@templates/Zettelkasten/Literature/Literature_Article.md",
+    "Projeto/Pesquisa/Literatura/2020-zhiqiang-stargraph.md",
+    "Projeto/Pesquisa/Literatura/2021-gmoreira-bridging.md",
     "Projeto/Pesquisa/Literatura/2020-huang-Exploiting.md",
     "Estudar.md",
-    "Projeto/Pesquisa/Literatura/2020-zhiqiang-stargraph.md",
+    "Projeto/Pesquisa/Datasets/Sigir.md",
+    "Projeto/Pesquisa/Datasets/Booking.md",
+    "@templates/Zettelkasten/Literature/Literature_Paper.md",
+    "@templates/Zettelkasten/Literature/Literature_Article.md",
     "Screenshot 2024-03-28 at 11.17.53.png",
-    "Projeto/Pesquisa/Literatura/2021-gmoreira-bridging.md",
     "ATA-Reuniao-PS.md",
     "Projeto/Pesquisa/Journals/ACM Conference Series On Recommendation Systems.md",
     "Projeto/Pesquisa/Journals/ACM Transactions on Information Systems.md",

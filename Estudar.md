@@ -2,3 +2,7 @@
 - [x] Pesquisar impacto dos journals / conferences (https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/)
 - [ ] Attention
 	- [ ] STAMP
+- [ ] Transformers - arquiteturas:
+	- [ ] BERT
+	- [ ] ELECTRA
+	- [ ] XLNet
